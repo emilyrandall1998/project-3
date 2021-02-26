@@ -31,6 +31,8 @@ async function seedDatabase() {
 
     console.log('🤖 Goodbye!')
 
+    console.log('No, seriously')
+
   } catch (err) {
     console.log('🤖 Something went wrong with seeding!')
     console.log(err)
