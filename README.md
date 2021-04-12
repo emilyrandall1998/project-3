@@ -50,7 +50,7 @@ The necessary deliverables are:
 ## Planning
 We were keen to have a thorough plan before starting so that we didn't run into problems later on in the project. We spent most of the first day planning the backend controllers and endpoints using flow charts:
 
-[Backend Flow Chart](./images/project3-backend.png) 
+![Backend Flow Chart](./project3-backend.png) 
 
 We then spent the next day setting up the backend which ran smoothly. 
 
@@ -97,7 +97,7 @@ We tried to divide the workload up as evenly as possible, and I focused mainly o
 
 ### Single Recipe Page
 
-[Single recipe page](./images/srp.png) 
+![Single recipe page](./srp.png) 
 
 This involved comment, a star rating system, a save function and an accessibility feature - a recipe reader (as well as buttons to delete and edit the recipe). In keeping with the rest of the app we styled the frontend using **bulma**. The main single recipe page features the star rating system, the fetched recipe ingredients, the edit recipe modal and also the speech synthesis button, which Jess implemented. 
 
