@@ -1,5 +1,5 @@
-# Project 3 - Hack-A-Snack 
-[P3 Homepage](./images/projectthree.png)
+# Project 3 - Hack-A-Snack !
+![P3 Homepage](./projectthree.png)
 
 ## Overview
 My third General Assembly was a group project that lasted one week, building a full-stack MERN application.
